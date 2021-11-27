@@ -1,0 +1,7 @@
+{
+    "whatsapp": "git@github.com:yneny/service-whatsapp.git",
+    "telegram": "git@github.com:yneny/service-telegram.git",
+    "skype": "git@github.com:yneny/service-skype.git",
+    "gihub": "git@github.com:yneny/service-github.git",
+    "discord": "git@github.com:yneny/service-discord.git"
+}
