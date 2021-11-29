@@ -1,7 +1,7 @@
 {
-    "whatsapp": "git@github.com:yneny/service-whatsapp.git",
-    "telegram": "git@github.com:yneny/service-telegram.git",
-    "skype": "git@github.com:yneny/service-skype.git",
-    "gihub": "git@github.com:yneny/service-github.git",
-    "discord": "git@github.com:yneny/service-discord.git"
+    "whatsapp": "git@github.com:yneny/service-whatsapp/raw/main/manifest.json",
+    "telegram": "git@github.com:yneny/service-telegram/raw/main/manifest.json",
+    "skype": "git@github.com:yneny/service-skype/raw/main/manifest.json",
+    "gihub": "git@github.com:yneny/service-github/raw/main/manifest.json",
+    "discord": "git@github.com:yneny/service-discord/raw/main/manifest.json"
 }
